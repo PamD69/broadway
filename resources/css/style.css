@@ -29,3 +29,10 @@ h3 {
 p {
   font-size: 14px;
 }
+.strap {
+  color: white;
+  background-image: url("../photo/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: 125%;
+  background-position:center;  
+}

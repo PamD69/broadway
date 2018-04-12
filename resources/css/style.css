@@ -31,8 +31,16 @@ p {
 }
 .strap {
   color: white;
+  font-size: 23px;
+  font-weight: bold;
   background-image: url("../photo/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: 125%;
-  background-position:center;  
+  background-position:center;
+}
+.foot {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
